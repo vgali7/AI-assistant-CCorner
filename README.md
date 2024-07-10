@@ -1,1 +1,1 @@
-# AI-assistant--C-Corner
+# AI-assistant C-Corner
