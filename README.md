@@ -21,7 +21,3 @@ Conclusion
 
 This AI-powered application demonstrates the potential of integrating advanced language models with intuitive user interfaces to provide personalized educational support. By leveraging Gradio and OpenAI's GPT-4, we can offer tailored career recommendations and learning resources, helping students navigate their educational journeys with greater confidence and clarity. Whether you are a student looking to explore new career paths or an educator seeking to enhance your teaching methods, this application provides a valuable tool for personalized learning and development.
 
-You can access our code on our GitHub repository: https://github.com/rahulmehta25/Rahul-s-Repository/blob/main/gradioDEV.py
-
-
-![image](https://github.com/user-attachments/assets/c944aa7e-2ea1-4814-8d4a-67db0d53f23f)
